@@ -1,25 +1,26 @@
-📊 Power BI Visualizations – Apocalypse Dataset Analysis
+## 📊 Power BI Visualizations – Apocalypse Dataset Analysis
 
 This repository contains a Power BI formatting and visualization of the Apocalypse dataset, a fictional dataset simulating product sales and performance during an apocalyptic scenario. 
 It provides interactive visuals, and insights to understand sales patterns, profitability, and product performance — even in extreme conditions.
 
-##🔍 Features
+## 🔍 Features
 - ✅ Dynamic and interactive visualizations
 - 📌 Drill-through
 - 📈 Bar, column, and charts for detailed comparison
 - 📂 Well-structured data model with calculated measures and columns
 
-##📁 Contents
+## 📁 Contents
 - Visualization.pbix, FormattingVisualizations_Apocalypse.pbix: The Power BI file
 - README.md: This documentation
 
-##📊 Dashboard Insights
+## 📊 Dashboard Insights
 The dashboard provides insights on:
--📦 Total Units Sold, Revenue, and Profit by Product
--💰 Price vs Production Cost analysis
--🔍 Top-selling products and most profitable items
+ 
+- 📦 Total Units Sold, Revenue, and Profit by Product
+- 💰 Price vs Production Cost analysis
+- 🔍 Top-selling products and most profitable items
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 
